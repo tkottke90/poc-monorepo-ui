@@ -1,7 +1,7 @@
 {
   "name": "poc-monorepo-ui",
   "version": "1.0.0",
-  "description": "Proof of Concept Repository using NX to manage a",
+  "description": "Proof of Concept Repository using NX to manage a UI as multiple components",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tkottke90/poc-monorepo-ui.git"
